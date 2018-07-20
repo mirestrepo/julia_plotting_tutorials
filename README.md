@@ -1,12 +1,6 @@
 ## Plotting and Visualization in Julia
 
-Inroductory examples to plotting in Julia using the following libraries:
-
-* PlotlyJS.jl - my personal favorite
-* Plots.jl
-* PyPlot.jl
-* Gadfly.jl
-* Seaborn.jl
+Inroductory examples to plotting in Julia using varios libraries
 
 | Launch Live Notebooks | View Static Notebooks |
 |:----------------:|:----------------:|
