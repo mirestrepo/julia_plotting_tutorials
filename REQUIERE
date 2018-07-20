@@ -1,6 +1,9 @@
+IJulia
 PyPlot
 PlotlyJS
 Gadfly
 Seaborn
 Pandas
 RDatasets
+Plots
+StatPlots
