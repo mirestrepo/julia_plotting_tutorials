@@ -1,6 +1,6 @@
 ## Plotting and Visualization in Julia
 
-Inroductory examples to plotting in Julia using varios libraries
+Introductory examples to plotting in Julia using varios libraries
 
 | Launch Live Notebooks | View Static Notebooks |
 |:----------------:|:----------------:|
