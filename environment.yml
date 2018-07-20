@@ -3,4 +3,5 @@ dependencies:
   - numpy
   - pip
   - pip:
-    - julia
+      - julia
+  

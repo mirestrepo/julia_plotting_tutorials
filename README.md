@@ -1,6 +1,5 @@
 ## Plotting and Visualization in Julia
 
-Try it live!
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mirestrepo/julia_plotting_tutorials/master)
 
 Last used: 
