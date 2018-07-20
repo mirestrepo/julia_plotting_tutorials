@@ -1,18 +1,29 @@
 ## Plotting and Visualization in Julia
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mirestrepo/julia_plotting_tutorials/master)
+Inroductory examples to plotting in Julia using the following libraries:
 
-Last used: 
-BIOL6535 Preclinical Elective Summer 2018 at Brown University.
+* PlotlyJS.jl - my personal favorite
+* Plots.jl
+* PyPlot.jl
+* Gadfly.jl
+* Seaborn.jl
+
+| Launch Live Notebooks | View Static Notebooks |
+|:----------------:|:----------------:|
+|[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mirestrepo/julia_plotting_tutorials/master)|[![nbviewer](https://img.shields.io/badge/jupyter_notebooks-nbviewer-orange.svg)](http://nbviewer.jupyter.org/github/mirestrepo/julia_plotting_tutorials/)|
+
+### Last Used:
+* July 20, 2018 - CEBI 0971 Summer@Brown: Biomedical Informatics and Data Science Skills for Biomedicine and Health Care 
+* June 20, 2018 - BIOL6535 Preclinical Elective Summer 2018 at Brown University.
 
 ### Materials:
 
 * Introductory Notebook: [Intro Slides](http://nbviewer.jupyter.org/github)
-* PlotlyJS [Notebook Viewer](http://nbviewer.jupyter.org/github/mirestrepo/julia_plotting_tutorials/blob/master/plotting/plotlyjs_basics.ipynb)
-* Plots [Notebook Viewer](http://nbviewer.jupyter.org/github/mirestrepo/julia_plotting_tutorials/blob/master/plotting/plots_basics.ipynb)
-* Seaborn [Notebook Viewer](http://nbviewer.jupyter.org/github/mirestrepo/julia_plotting_tutorials/blob/master/plotting/seaborn.ipynb)
-* Gadfly [Notebook Viewer](http://nbviewer.jupyter.org/github/mirestrepo/julia_plotting_tutorials/blob/master/plotting/gadfly_basics.ipynb)
-* PyPlot [Notebook Viewer](http://nbviewer.jupyter.org/github/mirestrepo/julia_plotting_tutorials/blob/master/plotting/pyplot_basics.ipynb)
+* PlotlyJS [Notebook Viewer](http://nbviewer.jupyter.org/github/mirestrepo/julia_plotting_tutorials/blob/master/plotlyjs_basics.ipynb)
+* Plots [Notebook Viewer](http://nbviewer.jupyter.org/github/mirestrepo/julia_plotting_tutorials/blob/master/plots_basics.ipynb)
+* Seaborn [Notebook Viewer](http://nbviewer.jupyter.org/github/mirestrepo/julia_plotting_tutorials/blob/master/seaborn.ipynb)
+* Gadfly [Notebook Viewer](http://nbviewer.jupyter.org/github/mirestrepo/julia_plotting_tutorials/blob/master/gadfly_basics.ipynb)
+* PyPlot [Notebook Viewer](http://nbviewer.jupyter.org/github/mirestrepo/julia_plotting_tutorials/blob/master/pyplot_basics.ipynb)
 * (For instructors) To locally view the notebooks as slide you can install the notebook extension [RISE](https://github.com/damianavila/RISE)
 
 
